@@ -1,1 +1,11 @@
-/* styles go here */
+.group {
+  margin: 20px auto;
+}
+
+.question {
+  margin: 0 0 10px;
+}
+
+.last {
+  margin: 0;
+}
