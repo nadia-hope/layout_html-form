@@ -1,11 +1,12 @@
 .group {
-  margin: 20px auto;
+  margin-bottom: 20px;
 }
 
 .question {
-  margin: 0 0 10px;
+  display: block;
+  margin-bottom: 10px;
 }
 
-.last {
-  margin: 0;
+.question:last-child {
+  margin-bottom: 0;
 }
